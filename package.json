@@ -1,0 +1,16 @@
+{
+  "name": "reverse-string",
+  "version": "1.0.0",
+  "description": "A program that counts the occurences of words",
+  "main": "../app/index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Lawal Lanre E",
+  "license": "ISC",
+  "keywords": [
+    "Reverse",
+    "String",
+    "javascript"
+  ]
+}
